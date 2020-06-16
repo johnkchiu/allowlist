@@ -1,4 +1,10 @@
 # --------------------
+# Own custom domains
+# --------------------
+# Amazon Shopping app (Shows "UH-OH" error!)
+s.amazon-adsystem.com
+
+# --------------------
 # optional-list.txt (some of it)
 # --------------------
 # Amazon Alexa and Amazon Shopping app
