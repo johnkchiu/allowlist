@@ -1,4 +1,11 @@
 # --------------------
+# optional-list.txt (some of it)
+# --------------------
+# Amazon Alexa and Amazon Shopping app
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
+
+# --------------------
 # whitelist.txt
 # --------------------
 0.client-channel.google.com
