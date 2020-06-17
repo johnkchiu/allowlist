@@ -3,6 +3,7 @@
 # --------------------
 # Amazon Shopping app (Shows "UH-OH" error!)
 fls-na.amazon.com
+mads.amazon-adsystem.com
 s.amazon-adsystem.com
 
 # --------------------
