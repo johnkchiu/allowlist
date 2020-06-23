@@ -2,6 +2,8 @@
 # Own custom domains
 # --------------------
 # Amazon Shopping app (Shows "UH-OH" error!)
+aan.amazon.com
+aax-us-iad.amazon.com
 fls-na.amazon.com
 mads.amazon.com
 mads.amazon-adsystem.com
