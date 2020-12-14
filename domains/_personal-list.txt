@@ -1,0 +1,18 @@
+# --------------------
+# Own custom domains
+# --------------------
+# Amazon Shopping app (Shows "UH-OH" error!)
+aan.amazon.com
+aax-us-iad.amazon.com
+fls-na.amazon.com
+mads.amazon.com
+mads.amazon-adsystem.com
+s.amazon-adsystem.com
+c.amazon-adsystem.com
+
+# --------------------
+# optional-list.txt (some of it)
+# --------------------
+# Amazon Alexa and Amazon Shopping app
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
