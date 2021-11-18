@@ -10,7 +10,7 @@ mads.amazon-adsystem.com
 s.amazon-adsystem.com
 c.amazon-adsystem.com
 # Paramount Plus
-s0.2mdn.net
+saa.cbsi.com
 
 # --------------------
 # optional-list.txt (some of it)
