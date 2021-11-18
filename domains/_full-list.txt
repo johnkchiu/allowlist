@@ -9,6 +9,8 @@ mads.amazon.com
 mads.amazon-adsystem.com
 s.amazon-adsystem.com
 c.amazon-adsystem.com
+# Paramount Plus
+s0.2mdn.net
 
 # --------------------
 # optional-list.txt (some of it)
