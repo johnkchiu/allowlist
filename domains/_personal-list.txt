@@ -11,7 +11,8 @@ s.amazon-adsystem.com
 c.amazon-adsystem.com
 # Paramount Plus
 cbsinteractive.hb.omtrdc.net
-saa.cbsi.com
+pubads.g.doubleclick.net	
+udm.scorecardresearch.com
 
 # --------------------
 # optional-list.txt (some of it)
