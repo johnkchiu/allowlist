@@ -9,6 +9,7 @@ mads.amazon.com
 mads.amazon-adsystem.com
 s.amazon-adsystem.com
 c.amazon-adsystem.com
+
 # Paramount Plus
 cbsinteractive.hb.omtrdc.net
 pubads.g.doubleclick.net	
